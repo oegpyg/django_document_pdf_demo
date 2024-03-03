@@ -15,3 +15,8 @@ pip install -r django_document_pdf/requirements.txt
 python manage.py runscript test
 ```
 
+## To make changes on Document Spec run:
+```
+python manage.py runserver
+```
+> user og : password og
