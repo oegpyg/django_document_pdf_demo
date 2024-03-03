@@ -1,0 +1,200 @@
+[
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL12",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 12
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL8",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 8
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL8N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 8
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL12N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 12
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL14N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 14
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL11N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 11
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL6",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 6
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL4",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 4
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL4N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 4
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL34",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 34
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL20",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 20
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL16N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 14
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL22",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 22
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL20N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 20
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL16",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 14
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL10",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 10
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL9",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 9
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "Bold": false,
+            "Code": "ARIAL10N",
+            "Color": "black",
+            "PDFFont": 1,
+            "Size": 10
+        },
+        "model": "django_document_pdf.fontstyle",
+        "pk": 19
+    }
+]

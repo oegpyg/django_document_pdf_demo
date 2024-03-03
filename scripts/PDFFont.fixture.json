@@ -1,0 +1,18 @@
+[
+    {
+        "fields": {
+            "Code": "Arial",
+            "Font": "fonts/Arial.ttf"
+        },
+        "model": "django_document_pdf.pdffont",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "Code": "Nunito_Regular",
+            "Font": "fonts/Nunito-Regular.ttf"
+        },
+        "model": "django_document_pdf.pdffont",
+        "pk": 2
+    }
+]
